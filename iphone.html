@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RememberMe · iPhone 15 Pro Max</title>
+    <style>
+      :root {
+        --screen-w: 430px;
+        --screen-h: 932px;
+        --bezel: 14px;
+        --device-radius: 62px;
+        --screen-radius: 50px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+
+      body {
+        align-items: center;
+        background:
+          radial-gradient(1200px 700px at 50% -10%, #2a3330 0%, transparent 55%),
+          #121411;
+        color: #d7d3ca;
+        display: flex;
+        font-family: ui-sans-serif, system-ui, -apple-system, sans-serif;
+        justify-content: center;
+        min-height: 100%;
+      }
+
+      .stage {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        transform-origin: center center;
+      }
+
+      .phone {
+        background: linear-gradient(180deg, #3a3d3c 0%, #1c1e1d 42%, #111312 100%);
+        border: 1px solid #5a5e5c;
+        border-radius: var(--device-radius);
+        box-shadow:
+          0 40px 80px rgba(0, 0, 0, 0.45),
+          inset 0 1px 0 rgba(255, 255, 255, 0.18),
+          inset 0 0 0 1px rgba(0, 0, 0, 0.4);
+        height: calc(var(--screen-h) + var(--bezel) * 2);
+        padding: var(--bezel);
+        position: relative;
+        width: calc(var(--screen-w) + var(--bezel) * 2);
+      }
+
+      .phone::before,
+      .phone::after {
+        background: #0a0b0b;
+        content: '';
+        position: absolute;
+        width: 4px;
+      }
+
+      .phone::before {
+        border-radius: 2px 0 0 2px;
+        height: 92px;
+        left: -3px;
+        top: 168px;
+      }
+
+      .phone::after {
+        border-radius: 0 2px 2px 0;
+        height: 128px;
+        right: -3px;
+        top: 210px;
+      }
+
+      .screen {
+        background: #000;
+        border-radius: var(--screen-radius);
+        height: var(--screen-h);
+        overflow: hidden;
+        position: relative;
+        width: var(--screen-w);
+      }
+
+      iframe {
+        border: 0;
+        display: block;
+        height: 100%;
+        width: 100%;
+      }
+
+      .island {
+        background: #050505;
+        border-radius: 24px;
+        height: 36px;
+        left: 50%;
+        position: absolute;
+        top: 22px;
+        transform: translateX(-50%);
+        width: 126px;
+        z-index: 2;
+      }
+
+      .home {
+        background: rgba(255, 255, 255, 0.42);
+        border-radius: 99px;
+        bottom: 22px;
+        height: 5px;
+        left: 50%;
+        pointer-events: none;
+        position: absolute;
+        transform: translateX(-50%);
+        width: 140px;
+        z-index: 2;
+      }
+
+      .caption {
+        font-size: 13px;
+        letter-spacing: 0.02em;
+        margin: 0;
+        opacity: 0.72;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="stage" id="stage">
+      <div class="phone">
+        <div class="screen">
+          <iframe src="/welcome" title="RememberMe"></iframe>
+        </div>
+        <div class="island"></div>
+        <div class="home"></div>
+      </div>
+      <p class="caption">iPhone 15 Pro Max · 430 × 932 · saves as you edit</p>
+    </div>
+    <script>
+      function fit() {
+        const stage = document.getElementById('stage');
+        const phoneH = 932 + 28 + 48;
+        const phoneW = 430 + 28;
+        const scale = Math.min(1, (window.innerHeight - 48) / phoneH, (window.innerWidth - 48) / phoneW);
+        stage.style.transform = 'scale(' + scale + ')';
+      }
+      fit();
+      window.addEventListener('resize', fit);
+    </script>
+  </body>
+</html>
