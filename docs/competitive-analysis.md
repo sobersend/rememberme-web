@@ -62,6 +62,10 @@ Founded 2012, San Francisco; self-reports 35M+ stories, 1M+ books, 50,000+ five-
 - **Pricing (2026, index):** Basic $59/yr (writing only + one hardcover); Color $109/yr (adds phone storytelling with transcription + monthly Family Call); Unlimited $199/yr (weekly guided phone interviews). Extra copies $39–$99. Free e-book + audiobook on Color. ([telloom.co](https://www.telloom.co/blog/storyworth-alternatives), [memoirji.com](https://memoirji.com/blog/best-storyworth-alternatives-2026/))
 - **Key contrast vs. RememberMe:** write-first DNA; even phone-dictated stories end as plain text — **original audio is not saved or included** (per [Remento's comparison](https://www.remento.co/journal/capture-family-stories-and-memories-top-storyworth-alternatives-for-canada)); no story-level permissions/provenance; editing access never expires.
 
+## 4b. Keepsay (discovered 2026-09-26 during naming research)
+
+**Keepsay (by Stubborn Good LLC)** — "preserves voices and memories for the people you love." Voice-first memory preservation with a physical/paper keepsake dimension ("real voices, real people, real paper" — brand language from their public GitHub brand skill). Discovered while screening "Keepsay" as a rename candidate; the name is taken in the exact product space, so it was eliminated. Competitively: a small, craft-positioned entrant (wax-seal/letter aesthetic) rather than a scale player like Remento/Storyworth — worth tracking for overlap on "authentic voice, no fabrication" positioning territory.
+
 ## 5. IP / Liability Assessment
 
 ### 5a. Patents — no blocking patents found
@@ -78,6 +82,11 @@ Founded 2012, San Francisco; self-reports 35M+ stories, 1M+ books, 50,000+ five-
   1. **Capcom's "Remember Me"** video-game trademark (filed 2012-05-22, computer game software, class 9; [eurogamer.net](https://www.eurogamer.net/capcom-registers-trademark-for-remember-me)) — phonetically identical to "RememberMe" and in class 9 (software). Live status unconfirmed in this research.
   2. **REMEMBERME.ME** (Ser. 77715107; "website to enable clients to construct pictorial/verbal memorials for departed loved ones") is **abandoned** — but it shows the exact mark was previously used for an adjacent memorial product ([trademarktok.com](https://www.trademarktok.com/trademark/detail/77715107/REMEMBERMEME)).
   - **Bottom line on the name:** no exact live "REMEMBERME" registration in the storytelling-app class was found, but the name sits between a live phonetic near-match (REMENTO, same class) and an identical game-software mark (Capcom). **Do not launch on this name without a full TESS clearance search and a trademark attorney's opinion.** A distinct name (or a visually/phonetically distinct variant) would materially reduce risk.
+- **Rename research (2026-09-26; screening only — not a clearance opinion).** Founder requested a more distinctive name that could double as the physical keepsake product's brand. 13 candidates screened against USPTO records + marketplace use:
+  - **Clean screens:** **Kinsay** (coined, kin + say — zero USPTO hits; frontrunner), **Bequest** (only live mark is an unrelated wine brand), **Everkin** (sole filing abandoned 2019, phone-case goods).
+  - **Caution:** Someday (common word = weak mark; pending "Someday World" entertainment filing), Storia (Scholastic ebook history; pending "MyStoria" software filing), Kinvoice (reads as "invoice"; tiny GitHub voice app using "KinVoice").
+  - **Eliminated:** Voicery (voicery.com was a real text-to-speech company), Hearth (live Class 009 registration), Kintell (registered 2019, software classes), Heirly (live estate-settlement software, adjacent), Keepsay (direct voice-memory competitor, §4b), Vokyn (scam-store search baggage), Tellkin ("TellKin: Family Biographer" live Android app).
+  - Domain availability could not be verified from the research sandbox — check a registrar before committing. Finalists still require full TESS clearance + counsel opinion before launch.
 
 ### 5c. Litigation — none found
 - No lawsuits, oppositions, or cease-and-desist actions found between or among Remento, Storyworth, Meminto, StoryKeeper, Tellioh, or others in this space.
