@@ -15,13 +15,35 @@ do not.
 
 ## Top 5
 
-| Rank | Name | Roles | Why | Watch-outs | Votes |
-|------|------|-------|-----|------------|-------|
-| 1 | **Fern** | Persona · Brand · Device | Olli's favorite. Gentle, gender-neutral, natural, easy to hear and spell. Gives the product a personality a Legend would talk to: "Fern, tell me about your wedding day." No objections from the family. Cleanest preliminary screen of the persona names. | Soft "F" onset is a slightly weaker far-field wake word; fine for close-range hardware. | Olli |
-| 2 | **Miri** | Persona · Device | Star's top pick. Short, bright, modern; technically the best wake word on the list; echoes the Siri/Muse naming shape. | That same closeness to **Siri** is a confusion risk; the Hebrew "wonderful" association still needs reliable language verification. | Star (#1) |
-| 3 | **Esme** | Persona · Device | Star's pick. Soft, elegant, French for "beloved" — a lovely meaning for a memory companion. | Sesame Workshop's *Esme & Roy* adjacency; counsel should assess. | Star |
-| 4 | **Mabel** | Persona · Device | Warm, vintage, "lovable." Flatters an older storyteller instead of patronizing one; two syllables make a friendly wake word; embosses nicely. | Nearby unrelated brand Mabel's Labels (non-competitive). | Olli |
-| 5 | **Kinsay** | Brand only | Best master-brand coinage: warm, accessible, says what it does. | Sits phonetically close to **Keepsay**, an adjacent brand we are avoiding — counsel must weigh this. Not a device name. | Olli |
+### 1. Fern
+- **Roles:** Persona · Brand · Device
+- **Why:** Olli's favorite. Gentle, gender-neutral, natural, easy to hear and spell. Gives the product a personality a Legend would talk to: "Fern, tell me about your wedding day." No objections from the family. Cleanest preliminary screen of the persona names.
+- **Watch-outs:** Soft "F" onset is a slightly weaker far-field wake word; fine for close-range hardware.
+- **Votes:** Olli
+
+### 2. Miri
+- **Roles:** Persona · Device
+- **Why:** Star's top pick. Short, bright, modern; technically the best wake word on the list; echoes the Siri/Muse naming shape.
+- **Watch-outs:** That same closeness to **Siri** is a confusion risk; the Hebrew "wonderful" association still needs reliable language verification.
+- **Votes:** Star (#1)
+
+### 3. Esme
+- **Roles:** Persona · Device
+- **Why:** Star's pick. Soft, elegant, French for "beloved" — a lovely meaning for a memory companion.
+- **Watch-outs:** Sesame Workshop's *Esme & Roy* adjacency; counsel should assess.
+- **Votes:** Star
+
+### 4. Mabel
+- **Roles:** Persona · Device
+- **Why:** Warm, vintage, "lovable." Flatters an older storyteller instead of patronizing one; two syllables make a friendly wake word; embosses nicely.
+- **Watch-outs:** Nearby unrelated brand Mabel's Labels (non-competitive).
+- **Votes:** Olli
+
+### 5. Kinsay
+- **Roles:** Brand only
+- **Why:** Best master-brand coinage: warm, accessible, says what it does.
+- **Watch-outs:** Sits phonetically close to **Keepsay**, an adjacent brand we are avoiding — counsel must weigh this. Not a device name.
+- **Votes:** Olli
 
 ## The rest, in ranking order
 
