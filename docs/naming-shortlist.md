@@ -63,7 +63,7 @@ rather than the letter:
 
 Someday, Storia, Voicery, Hearth, Kinvoice, Kintell, Heirly, Keepsay, Vokyn,
 Tellkin, Evoca, Vellum, Tellery, Avow, Dicta, Kinvox, Vera, Alma, Ada, Wren,
-Saga, Pearl, Cleo. Downgraded: Fabula, Loria, Truekin, Relica, Folkvox.
+Saga, Pearl, Cleo, Nola (Sept 27, 2026 — NOLA AI, INC. holds a REGISTERED mark, Serial No. 98775117 / Reg. No. 7853766, covering AI chatbot/NLP/speech software; plus live "Nola" AI family assistant at trynola.ai and "Nola" AI expense-tracking iPhone app). Downgraded: Fabula, Loria, Truekin, Relica, Folkvox.
 
 ## Next steps
 
