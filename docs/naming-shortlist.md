@@ -72,6 +72,25 @@ rather than the letter:
 - **Memora** — Latin, "things worthy of remembrance"; short and ownable.
   Needs screening.
 
+## New candidates from the scorecard round (Oct 3, 2026)
+
+Generated against the naming-principles scorecard (arbitrary/evocative, warm
+phonetics, outside the memory-word field, persona-capable) and
+preliminary-screened the same day:
+
+- **Carol** — PASSED preliminary screen. A carol is a song of joy — and carols
+  tell stories; "every life has a carol" gives it legs. Vintage given name in
+  the Mabel pattern, bulletproof spelling, hard-C onset makes a strong
+  two-syllable wake word. "Carol, tell me about your wedding day" works as a
+  persona. Watch-outs: Christmas-carol seasonal association (mild); a
+  field-distant "Carol iE3" mortgage AI exists. Awaiting Matt's call on whether
+  it joins the finalist screen.
+- **Birch** — FLAGGED, not recommended. Birch bark was humanity's first paper
+  (lovely metaphor), but "Birch" (formerly Revealbot) is a live AI ad-automation
+  platform — a live AI software brand with the exact name is too close for the
+  "no legal hot water" standard.
+- **Hazel** — ELIMINATED (see below). **Thimble** — ELIMINATED (see below).
+
 ## Feedback log
 
 - **Olli (Sept 27, 2026):** ranked all 13 vetted names; Fern #1 overall,
@@ -87,7 +106,7 @@ rather than the letter:
 
 Someday, Storia, Voicery, Hearth, Kinvoice, Kintell, Heirly, Keepsay, Vokyn,
 Tellkin, Evoca, Vellum, Tellery, Avow, Dicta, Kinvox, Vera, Alma, Ada, Wren,
-Saga, Pearl, Cleo, Nola (Sept 27, 2026 — NOLA AI, INC. holds a REGISTERED mark, Serial No. 98775117 / Reg. No. 7853766, covering AI chatbot/NLP/speech software; plus live "Nola" AI family assistant at trynola.ai and "Nola" AI expense-tracking iPhone app), Amber (Oct 3, 2026 — AMBER registered to Amber AI Limited, Serial No. 90315154 / Reg. No. 6635957, software services; company pivoting into agentic AI), Willa (Oct 3, 2026 — prior App Store AI assistant "Willa: AI Coach for Creators" with voice commands), Sylvie (Oct 3, 2026 — multiple AI-assistant uses incl. "Hey Sylvie" wake-word project; phonetically identical to Sylvi, a funded conversational-AI edtech). Downgraded: Fabula, Loria, Truekin, Relica, Folkvox.
+Saga, Pearl, Cleo, Nola (Sept 27, 2026 — NOLA AI, INC. holds a REGISTERED mark, Serial No. 98775117 / Reg. No. 7853766, covering AI chatbot/NLP/speech software; plus live "Nola" AI family assistant at trynola.ai and "Nola" AI expense-tracking iPhone app), Amber (Oct 3, 2026 — AMBER registered to Amber AI Limited, Serial No. 90315154 / Reg. No. 6635957, software services; company pivoting into agentic AI), Willa (Oct 3, 2026 — prior App Store AI assistant "Willa: AI Coach for Creators" with voice commands), Sylvie (Oct 3, 2026 — multiple AI-assistant uses incl. "Hey Sylvie" wake-word project; phonetically identical to Sylvi, a funded conversational-AI edtech), Hazel (Oct 3, 2026 — Hazel is a live AI platform by Altruist for wealth managers, hazel.ai, 1,000+ users), Thimble (Oct 3, 2026 — THIMBLE registered twice for software: Verifly USA insurance software, Serial No. 88481993; Thimble Systems LLC credential-verification software, Serial No. 99361272). Downgraded: Fabula, Loria, Truekin, Relica, Folkvox.
 
 ## Next steps
 
