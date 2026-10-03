@@ -17,16 +17,16 @@ do not.
 
 *Order revised Oct 3, 2026 per the naming-principles scorecard (see the Product Naming Principles brief). Votes unchanged — note the scorecard diverges from Star's Miri pick; that's a conversation.*
 
-### 1. Fern
+### 1. Fern — clearance: FLAGGED (Oct 3, 2026)
 - **Roles:** Persona · Brand · Device
-- **Why:** Olli's favorite, and the scorecard agrees. Arbitrary mark (a plant name for a storytelling app) — strong and ownable. Lives outside the crowded memory-word field where Remento/Meminto fight; the distinctiveness research says that white space is a strategic asset. Vivid imagery and a one-sentence story: ferns are among Earth's oldest plants — they endure. Cleanest preliminary screen of the persona names.
-- **Watch-outs:** Soft "F" onset is a slightly weaker far-field wake word; fine for close-range hardware.
+- **Why:** Olli's favorite, and the scorecard agrees. Arbitrary mark (a plant name for a storytelling app) — strong and ownable. Lives outside the crowded memory-word field where Remento/Meminto fight; the distinctiveness research says that white space is a strategic asset. Vivid imagery and a one-sentence story: ferns are among Earth's oldest plants — they endure.
+- **Watch-outs:** Clearance screen (Oct 3, preliminary — not counsel): FLAGGED, not blocked. Fern Health, Inc. holds a LIVE federal registration for the exact word FERN (Serial 88404150, reg. 8/15/2023) in IC 042 (software services) + IC 038 for healthcare chat/forum software — same class we'd likely file in, though a different field. Haworth holds incontestable FERN (Serial 86656350) for office furniture — different field. "Fern Journal" is a live iOS app doing AI journaling with voice-to-text — same neighborhood as a voice-memoir app. fern.com taken (1995). Soft "F" onset is a slightly weaker far-field wake word.
 - **Votes:** Olli
 
-### 2. Mabel
+### 2. Mabel — clearance: FLAGGED (Oct 3, 2026)
 - **Roles:** Persona · Device
 - **Why:** The phonetics research upgraded this one: m/b bilabials literally register as soft and warm, and the name derives from "lovable." Vintage-name-as-persona follows the Alexa/Siri/Muse pattern. Flatters an older storyteller instead of patronizing one; embosses nicely.
-- **Watch-outs:** Nearby unrelated brand Mabel's Labels (non-competitive).
+- **Watch-outs:** Clearance screen (Oct 3, preliminary — not counsel): FLAGGED. "Call Mabel" (callmabel.com) is an OPERATING AI voice companion for seniors/families — "remembers your stories," voice-first, family audience; directly adjacent concept with no federal filing found (operating use still counts). Correction to the earlier note: Mabel's Labels is a bigger deal than "nearby non-competitive" — it's LIVE registered (Serial 98106283, reg. 8/27/2024) in IC 016 (paper goods), the same class printed keepsake books would file in, owned by CCL Industries (acquired Jan 2016, ~$12M CAD); same family audience + shared root + deep-pocketed owner = plausible examiner citation or opposition. Mabel AI (healthcare speech-translation app) also operating. mabel.com taken.
 - **Votes:** Olli
 
 ### 3. Esme
