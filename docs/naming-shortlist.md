@@ -15,34 +15,36 @@ do not.
 
 ## Top 5
 
+*Order revised Oct 3, 2026 per the naming-principles scorecard (see the Product Naming Principles brief). Votes unchanged — note the scorecard diverges from Star's Miri pick; that's a conversation.*
+
 ### 1. Fern
 - **Roles:** Persona · Brand · Device
-- **Why:** Olli's favorite. Gentle, gender-neutral, natural, easy to hear and spell. Gives the product a personality a Legend would talk to: "Fern, tell me about your wedding day." No objections from the family. Cleanest preliminary screen of the persona names.
+- **Why:** Olli's favorite, and the scorecard agrees. Arbitrary mark (a plant name for a storytelling app) — strong and ownable. Lives outside the crowded memory-word field where Remento/Meminto fight; the distinctiveness research says that white space is a strategic asset. Vivid imagery and a one-sentence story: ferns are among Earth's oldest plants — they endure. Cleanest preliminary screen of the persona names.
 - **Watch-outs:** Soft "F" onset is a slightly weaker far-field wake word; fine for close-range hardware.
 - **Votes:** Olli
 
-### 2. Miri
+### 2. Mabel
 - **Roles:** Persona · Device
-- **Why:** Star's top pick. Short, bright, modern; technically the best wake word on the list; echoes the Siri/Muse naming shape.
-- **Watch-outs:** That same closeness to **Siri** is a confusion risk; the Hebrew "wonderful" association still needs reliable language verification.
-- **Votes:** Star (#1)
-
-### 3. Esme
-- **Roles:** Persona · Device
-- **Why:** Star's pick. Soft, elegant, French for "beloved" — a lovely meaning for a memory companion.
-- **Watch-outs:** Sesame Workshop's *Esme & Roy* adjacency; counsel should assess.
-- **Votes:** Star
-
-### 4. Mabel
-- **Roles:** Persona · Device
-- **Why:** Warm, vintage, "lovable." Flatters an older storyteller instead of patronizing one; two syllables make a friendly wake word; embosses nicely.
+- **Why:** The phonetics research upgraded this one: m/b bilabials literally register as soft and warm, and the name derives from "lovable." Vintage-name-as-persona follows the Alexa/Siri/Muse pattern. Flatters an older storyteller instead of patronizing one; embosses nicely.
 - **Watch-outs:** Nearby unrelated brand Mabel's Labels (non-competitive).
 - **Votes:** Olli
 
+### 3. Esme
+- **Roles:** Persona · Device
+- **Why:** Star's pick. French for "beloved" — the brand's emotional core in a single word. Soft, elegant phonetics match the warmth brief.
+- **Watch-outs:** Sesame Workshop's *Esme & Roy* adjacency; counsel should assess.
+- **Votes:** Star
+
+### 4. Miri
+- **Roles:** Persona · Device
+- **Why:** Technically the best wake word on the list — two bright syllables, first-syllable stress. Short and modern.
+- **Watch-outs:** Scorecard copycat flag: too close to **Siri** (Watkins' SCRATCH test). Weakest imagery of the persona names — no mental picture. The Hebrew "wonderful" claim still needs verification.
+- **Votes:** Star (#1)
+
 ### 5. Kinsay
 - **Roles:** Brand only
-- **Why:** Best master-brand coinage: warm, accessible, says what it does.
-- **Watch-outs:** Sits phonetically close to **Keepsay**, an adjacent brand we are avoiding — counsel must weigh this. Not a device name.
+- **Why:** Warm, accessible coinage that says what it does.
+- **Watch-outs:** The scorecard demotes it: "kin"+"say" is a transparent compound sitting near descriptive/functional territory, and it swims in the most crowded part of the field — weakest relative distinctiveness of the five. Phonetic proximity to **Keepsay** (copycat flag); reads as "Kinsey" (unfortunate homophone). Not a device name.
 - **Votes:** Olli
 
 ## The rest, in ranking order
@@ -85,7 +87,7 @@ rather than the letter:
 
 Someday, Storia, Voicery, Hearth, Kinvoice, Kintell, Heirly, Keepsay, Vokyn,
 Tellkin, Evoca, Vellum, Tellery, Avow, Dicta, Kinvox, Vera, Alma, Ada, Wren,
-Saga, Pearl, Cleo, Nola (Sept 27, 2026 — NOLA AI, INC. holds a REGISTERED mark, Serial No. 98775117 / Reg. No. 7853766, covering AI chatbot/NLP/speech software; plus live "Nola" AI family assistant at trynola.ai and "Nola" AI expense-tracking iPhone app). Downgraded: Fabula, Loria, Truekin, Relica, Folkvox.
+Saga, Pearl, Cleo, Nola (Sept 27, 2026 — NOLA AI, INC. holds a REGISTERED mark, Serial No. 98775117 / Reg. No. 7853766, covering AI chatbot/NLP/speech software; plus live "Nola" AI family assistant at trynola.ai and "Nola" AI expense-tracking iPhone app), Amber (Oct 3, 2026 — AMBER registered to Amber AI Limited, Serial No. 90315154 / Reg. No. 6635957, software services; company pivoting into agentic AI), Willa (Oct 3, 2026 — prior App Store AI assistant "Willa: AI Coach for Creators" with voice commands), Sylvie (Oct 3, 2026 — multiple AI-assistant uses incl. "Hey Sylvie" wake-word project; phonetically identical to Sylvi, a funded conversational-AI edtech). Downgraded: Fabula, Loria, Truekin, Relica, Folkvox.
 
 ## Next steps
 
