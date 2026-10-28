@@ -45,6 +45,10 @@
           {
             "/": "/porch/*",
             "comment": "The Legend's own screens"
+          },
+          {
+            "/": "/reset-password",
+            "comment": "A password reset email's link"
           }
         ],
         "paths": [
@@ -57,7 +61,8 @@
           "/postcard/*",
           "/questions",
           "/settings",
-          "/porch/*"
+          "/porch/*",
+          "/reset-password"
         ]
       }
     ]
