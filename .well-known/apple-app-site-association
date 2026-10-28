@@ -1,0 +1,65 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "6NQDWWR6R6.com.sobersend.rememberme"
+        ],
+        "components": [
+          {
+            "/": "/",
+            "comment": "Home, and the postcard link (/?postcard=<id>)"
+          },
+          {
+            "/": "/s/*",
+            "comment": "The Legend's answer door"
+          },
+          {
+            "/": "/c/*",
+            "comment": "A Legend's check-a-detail door"
+          },
+          {
+            "/": "/legend/*",
+            "comment": "A Legend's app invitation"
+          },
+          {
+            "/": "/join/*",
+            "comment": "A Circle invitation"
+          },
+          {
+            "/": "/story/*",
+            "comment": "A story, for the Circle"
+          },
+          {
+            "/": "/postcard/*",
+            "comment": "An ask-back or postcard"
+          },
+          {
+            "/": "/questions",
+            "comment": "The Circle's questions"
+          },
+          {
+            "/": "/settings",
+            "comment": "Settings (notification preferences)"
+          },
+          {
+            "/": "/porch/*",
+            "comment": "The Legend's own screens"
+          }
+        ],
+        "paths": [
+          "/",
+          "/s/*",
+          "/c/*",
+          "/legend/*",
+          "/join/*",
+          "/story/*",
+          "/postcard/*",
+          "/questions",
+          "/settings",
+          "/porch/*"
+        ]
+      }
+    ]
+  }
+}

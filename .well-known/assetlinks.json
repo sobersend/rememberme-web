@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sobersend.rememberme",
+      "sha256_cert_fingerprints": [
+        "00:8D:97:8D:B7:91:5A:DC:55:BF:2E:97:41:8C:94:A6:21:E0:61:6F:F2:55:61:AE:E2:60:73:AD:2B:8D:7E:7B"
+      ]
+    }
+  }
+]
