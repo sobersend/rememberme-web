@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.sobersend.rememberme",
       "sha256_cert_fingerprints": [
-        "00:8D:97:8D:B7:91:5A:DC:55:BF:2E:97:41:8C:94:A6:21:E0:61:6F:F2:55:61:AE:E2:60:73:AD:2B:8D:7E:7B"
+        "00:8D:97:8D:B7:91:5A:DC:55:BF:2E:97:41:8C:94:A6:21:E0:61:6F:F2:55:61:AE:E2:60:73:AD:2B:8D:7E:7B",
+        "03:3C:5C:B3:A2:28:CF:E2:3D:89:FB:5C:6D:94:9A:A0:AB:D2:D2:FD:17:FE:9C:20:A2:05:E8:69:BC:64:EF:E0"
       ]
     }
   }
