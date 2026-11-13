@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,_e,d){"use strict";Object.defineProperty(_e,'__esModule',{value:!0}),Object.defineProperty(_e,"default",{enumerable:!0,get:function(){return f}});var e,t=r(d[0]),n=r(d[1]),u=(e=n)&&e.__esModule?e:{default:e},o=r(d[2]);function f(){return(0,o.jsx)(t.AnotherLegendProvider,{children:(0,o.jsx)(u.default,{})})}},765,[940,803,6]);
