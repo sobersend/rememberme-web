@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return u}});var n=r(d[0]),t=r(d[1]),o=r(d[2]);function u(){return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(n.Stack.Screen,{options:{headerShown:!1}}),(0,o.jsx)(t.EntityIndex,{kind:"person"})]})}},783,[835,1012,6]);
