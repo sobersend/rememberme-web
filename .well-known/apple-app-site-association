@@ -27,6 +27,10 @@
             "comment": "A Circle invitation"
           },
           {
+            "/": "/j/*",
+            "comment": "The Circle's link and QR code: ask to join (LG-168)"
+          },
+          {
             "/": "/story/*",
             "comment": "A story, for the Circle"
           },
@@ -57,6 +61,7 @@
           "/c/*",
           "/legend/*",
           "/join/*",
+          "/j/*",
           "/story/*",
           "/postcard/*",
           "/questions",
