@@ -4,6 +4,9 @@
     <meta charset="utf-8" />
     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#FFF9F2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#14110E" media="(prefers-color-scheme: dark)" />
     <title>Seashell</title>
     <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
     <style id="expo-reset">
@@ -23,13 +26,92 @@
         flex: 1;
       }
     </style>
+    <!--
+      IDEA-125: the first paint, shown while the app's JavaScript downloads (the door link, sign-in,
+      /billing-return after Stripe). Colours are Colors.light / Colors.dark from constants/theme.ts
+      (bg, text, accent, honey); __tests__/web-boot-shell.test.ts keeps them in step. app/_layout.tsx
+      fades it out once the app has drawn (lib/web-boot-shell.ts).
+    -->
+    <style id="seashell-boot-style">
+      html,
+      body {
+        margin: 0;
+        background: #FFF9F2;
+      }
+      #seashell-boot {
+        position: fixed;
+        inset: 0;
+        z-index: 2147483647;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        background: #FFF9F2;
+        color: #1A1A18;
+        transition: opacity 240ms ease-out;
+      }
+      #seashell-boot.is-leaving {
+        opacity: 0;
+        pointer-events: none;
+      }
+      #seashell-boot .mark {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        height: 40px;
+      }
+      #seashell-boot .mark span {
+        display: block;
+        width: 8px;
+        border-radius: 4px;
+        background: linear-gradient(180deg, #FFB938, #FF6B4A);
+        animation: seashell-breathe 1.6s ease-in-out infinite;
+      }
+      #seashell-boot .mark span:nth-child(1) { height: 12px; animation-delay: 0s; }
+      #seashell-boot .mark span:nth-child(2) { height: 24px; animation-delay: 0.12s; }
+      #seashell-boot .mark span:nth-child(3) { height: 36px; animation-delay: 0.24s; }
+      #seashell-boot .mark span:nth-child(4) { height: 26px; animation-delay: 0.36s; }
+      #seashell-boot .mark span:nth-child(5) { height: 14px; animation-delay: 0.48s; }
+      #seashell-boot .word {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: 0.2px;
+      }
+      @keyframes seashell-breathe {
+        0%, 100% { transform: scaleY(0.7); opacity: 0.7; }
+        50% { transform: scaleY(1); opacity: 1; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        #seashell-boot .mark span { animation: none; }
+        #seashell-boot { transition: none; }
+      }
+      @media (prefers-color-scheme: dark) {
+        html,
+        body,
+        #seashell-boot {
+          background: #14110E;
+        }
+        #seashell-boot {
+          color: #FBF1E4;
+        }
+        #seashell-boot .mark span {
+          background: linear-gradient(180deg, #FFC75E, #FF8566);
+        }
+      }
+    </style>
   <link rel="icon" href="/favicon.ico"/></head>
 
   <body>
     <!-- Use static rendering with Expo Router to support running without JavaScript. -->
     <noscript> You need to enable JavaScript to run this app. </noscript>
+    <div id="seashell-boot" role="status" aria-label="Loading Seashell">
+      <div class="mark" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+      <div class="word" aria-hidden="true">Seashell</div>
+    </div>
     <!-- The root element for your Expo app. -->
     <div id="root"></div>
-  <script src="/_expo/static/js/web/__expo-metro-runtime-8c088df87a31e4e6accd81c554ec290d.js" defer></script><script src="/_expo/static/js/web/__common-2ec88de17aba1f1d73150bd54073aceb.js" defer></script><script src="/_expo/static/js/web/entry-8c8e127f7e04a894fbb1e5a55f6800e6.js" defer></script>
+  <script src="/_expo/static/js/web/__expo-metro-runtime-8c088df87a31e4e6accd81c554ec290d.js" defer></script><script src="/_expo/static/js/web/__common-446213872835b7806b9c30b0a9d15213.js" defer></script><script src="/_expo/static/js/web/entry-d56c4dbcc57e688c784f2950564d8c55.js" defer></script>
 </body>
 </html>
